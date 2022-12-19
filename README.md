@@ -1,2 +1,3 @@
-# Qt-PlantsVsZombies
-山东科技大学面向对象程序设计综合实践
+# About
+
+It's a project for my Qt Summer Semester. The goal of the project is to implement a plants vs zombies using Qt.
